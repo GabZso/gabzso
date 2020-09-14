@@ -1,0 +1,24 @@
+/*.jelszo-div label {color:red;}
+body div.jelszo-div {color: blue;}
+*/
+.jelszo-div {color: brown;}
+.fld-seta {
+    color: cadetblue;
+    display: inline-block;
+}
+body div.fld-sets {
+    color: darkblue;
+}
+
+/*div[class*="col"] {
+    */
+    .btn-group {
+  
+    
+    color: red;
+    border: double;
+}
+.exampleInputEmail1:hover {
+    box-shadow: 0 0 3px #888888;
+    color: red;
+}

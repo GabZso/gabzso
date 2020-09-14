@@ -1,0 +1,13 @@
+{
+    "users":[
+        {"id":1,"nev":"Kiss Béla","kor":22},
+        {"id":2,"nev":"Kovacs Arita","kor":34},
+        {"id":3,"nev":"Lasylo Béla","kor":23},
+        {"id":4,"nev":"Calisro Attila","kor":55}
+    ],
+    "megj":[
+        {"id":1,"uzenet":"uzi1","kiId":2},
+        {"id":2,"uzenet":"uzi2","kiId":1},
+        {"id":3,"uzenet":"uzi3","kiId":4}
+    ]
+}
